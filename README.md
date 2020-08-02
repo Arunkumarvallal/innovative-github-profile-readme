@@ -26,7 +26,7 @@ A list of 🧙‍♂️ Innovative github profile readme📝
 
 ## Articles
 
-- ["How To Create A GitHub Profile README"](https://medium.com/@Arunkumarvallal/how-to-create-a-github-profile-readme-by-arunkumarvallal-5e618b6f7169) - *Arunkumarvallal*
+- ["How To Create A GitHub Profile README 📝"](https://medium.com/@Arunkumarvallal/how-to-create-a-github-profile-readme-by-arunkumarvallal-5e618b6f7169) - *Arunkumarvallal*
 - ["3 Ways to Spice up your Github Profile README 🔥"](https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276) - *Jaye Hernandez*
 - ["Build a Stunning README For Your GitHub Profile"](https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7) - *Martin Heinz*
 - ["How I added my Spotify statistics to my GitHub readme 📜"](https://dev.to/gargakshit/how-i-added-my-spotify-statistics-to-my-github-readme-4jdd) - *Akshit Garg*
