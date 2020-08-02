@@ -1,8 +1,8 @@
 # Innovative Github Pofiles README
 A list of 🧙‍♂️ Innovative github profile readme📝
 <br>
-
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 #### List of Innovative Ones 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
