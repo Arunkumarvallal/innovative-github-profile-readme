@@ -7,22 +7,22 @@ A list of 🧙‍♂️ Innovative github profile readme📝
 </div>
 
 #### List of Innovative Ones 🧙‍♂️
+- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
+- [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
+- [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
+- [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri)
+- [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu)
+- [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007)
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 - [Jhey Tompkins](https://github.com/jh3y/jh3y)
 - [Waylon Walker](https://github.com/WaylonWalker/WaylonWalker)
 - [Vansh Kapoor](https://github.com/vanshkapoor/vanshkapoor)
-- [Harsh Kumar Khatri](https://github.com/harshkumarkhatri/harshkumarkhatri)
-- [Stephen Ajulu](https://github.com/stephenajulu/stephenajulu)
-- [Haany Ali](https://github.com/MarikIshtar007/MarikIshtar007)
 - [Anurag Singh](https://github.com/ashleymavericks/ashleymavericks)
 - [Rishit Dagli](https://github.com/Rishit-dagli/Rishit-dagli)
 - [Vinit Shahdeo](https://github.com/vinitshahdeo/vinitshahdeo/)
 - [Fatih Kadir Akın](https://github.com/f/f/)
 - [Lucas Vazquez](https://github.com/lucasvazq/lucasvazq)
 - [alx365](https://github.com/alx365/alx365)
-- [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
-- [Srihari Kapu](https://github.com/sriharikapu/sriharikapu)
-- [Arturs Smirnovs](https://github.com/arturssmirnovs/arturssmirnovs)
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
